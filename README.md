@@ -1,2 +1,2 @@
-# react-boilerplate
-react boilerplate including auth, redux, webpack, and more
+# expensify-app
+Expensify Application using React.
